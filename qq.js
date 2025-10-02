@@ -7,3 +7,7 @@ var qq = {
         console.log('init qq');
     }
 }
+export default qq;
+export {
+    qq
+}
